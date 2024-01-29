@@ -19,6 +19,7 @@ To fully follow the material on this page, it is recommended to be familiar with
 
 <!-- Write the short summary of the coretime and the need of the Coretime Marketplace -->
 As polkadot is moving toward an application-focused ecosystem where all cores are a resource to be consumed and used as needed by all applications. Previously, the auction mechanism was quite a competitive process to secure a slot on parachain. With coretime rental, there is no need for slot anymore, teams can purchase instantaneous or reserve bulk coretime. This greatly decreases the barrier-to-entry for software tinkerers and parachain teams and increase the accessibility to polkadot computation without wasting valuable blockspace.<br/>
+
 The slot auction mechanism is not agile, creates high entry barriers, and is designed for long-running single applications (i.e., the original Polkadot vision proposed in the whitepaper). We depart from the classic lease auctions and propose an agile marketplace for coretime, where essentially coretime becomes a commodity that can be tokenized, sold, and traded. This setup maximizes the agility of Polkadot and lets the market figure out the best solution needed for applications to be successful.
 ***
 ### Coretime Chain
@@ -181,3 +182,6 @@ The information provided here is subject to change; keep up to date using the fo
 - [Coretime Price Simulator](https://lastic.streamlit.app/)
 
 <!-- Add more links about the pallet implementation and code reference -->
+## References
+This section will list the referneces to the information mentioned above:
+- [RFC-1: Agile Coretime](https://github.com/polkadot-fellows/RFCs/blob/6f29561a4747bbfd95307ce75cd949dfff359e39/text/0001-agile-coretime.md)
