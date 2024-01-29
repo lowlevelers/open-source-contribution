@@ -59,14 +59,7 @@ Ideal (Best if sold).<br />
 If Sold > Ideal in current month, the price raises 5% for the next selling.
 
 
-**Bulk Sales** <br />
-- A sale of Bulk Coretime occurs on the Coretime-chain every `BULK_PERIOD` blocks.
-- In every sale, a `BULK_LIMIT` of individual Regions are offered for sale.
-- Each Region offered for sale has a different Core Index, ensuring that they each represent an independently allocatable resource on the Polkadot UC.
-- The Regions offered for sale have the same span: they last exactly `BULK_PERIOD` blocks, and begin immediately following the span of the previous Sale's Regions. - The Regions offered for sale also have the complete, non-interlaced, Core Mask.
-- The Sale Period ends immediately as soon as span of the Coretime Regions that are being sold begins. At this point, the next Sale Price is set according to the previous Sale Price together with the number of Regions sold compared to the desired and maximum amount of Regions to be sold. See Price Setting for additional detail on this point.
-- Following the end of the previous Sale Period, there is an Interlude Period lasting `INTERLUDE_PERIOD` of blocks. After this period is elapsed, regular purchasing begins with the Purchasing Period.
-- This is designed to give at least two weeks worth of time for the purchased regions to be partitioned, interlaced, traded and allocated.<br />
+
 
 **Region**<br />
 A Core bought by Bulk is made out of parts  Regions (Bulk Coretime Assets)
