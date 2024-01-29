@@ -43,33 +43,7 @@ The Coretime Chain and Relay Chain communicate through two protocols:
     - Number of cores available to be scheduled.
     - Account information on Instantaneous Coretime Sales.
 
-#### Specific Functions of the Coretime Chain
 
-- **Transfer:**
-  - Allows the transfer of Bulk Coretime between accounts.
-
-- **Partition:**
-  - Facilitates the partitioning of Bulk Coretime for specific use cases.
-
-- **Interlace:**
-  - Enables the interlacing of Coretime to optimize usage.
-
-- **Assign:**
-  - Permits the assignment of Coretime to specific tasks.
-
-- **Pool:**
-  - Supports pooling for Instantaneous Coretime, enhancing resource utilization.
-
-#### Operations
-
-- **Purchases:**
-  - Handles the sale and acquisition of Coretime.
-
-- **Renewals:**
-  - Manages the renewal process for Coretime.
-
-- **Instantaneous Coretime Credits:**
-  - Provides functionality for handling Instantaneous Coretime Credits.
 ***
 ### Bulk Coretime
 
