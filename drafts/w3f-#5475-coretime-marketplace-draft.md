@@ -154,3 +154,4 @@ This section will list the referneces to the information mentioned above:
 - [RFC-1: Agile Coretime](https://github.com/polkadot-fellows/RFCs/blob/6f29561a4747bbfd95307ce75cd949dfff359e39/text/0001-agile-coretime.md)
 - [Emil Kietzman Dot post](https://twitter.com/EmilKietzman/status/1720421050788217261?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1720421050788217261%7Ctwgr%5E7403a419adeb696bbc2cafa19015af89c1cf8036%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.redditmedia.com%2Fmediaembed%2F17mvfq2%2F%3Fresponsive%3Dtrueis_nightmode%3Dtrue)
 - [Corego Labs](https://github.com/CoregoLabs/Proposal)
+- [Agile Coretime FAQs](https://hackmd.io/@eEc87tjoS5WyQ9Pzqt0tqQ/rJas_pxLp)
