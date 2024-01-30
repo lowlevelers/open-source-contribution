@@ -80,15 +80,7 @@ Instantaneous Coretime, previously referred to as "Parathreads" or "Pay-as-you-g
 
 On the Instantaneous Coretime Marketplace, the price will also depend on demand (% of OrderBook filled).
 
-#### Spot Price Multiplier
 
-##### Parameters:
-
-- `traffic`: The previously calculated multiplier, can never go below 1.0.
-- `queue_capacity`: The max size of the Order Book.
-- `queue_size`: How many orders are currently in the Order Book.
-- `target_queue_utilisation`: How much of the Queue_Capacity should be ideally occupied (expressed in %).
-- `variability`: A variability factor, i.e., how quickly the Spot Price adjusts.
 
 ##### Formula:
 
