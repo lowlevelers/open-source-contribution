@@ -54,20 +54,20 @@ Bulk Coretime is a format of selling Coretime on Polkadot, where it is sold peri
 At the normal Bulk Coretime Marketplace the price depends on Demand.
 
 Each month.<br />
-Offered Cores (max to be sold).<br />
-Ideal (Best if sold).<br />
-If Sold > Ideal in current month, the price raises 5% for the next selling.
+ Offered Cores (max to be sold).<br />
+ Ideal (Best if sold).<br />
+ If Sold > Ideal in current month, the price raises 5% for the next selling.
 
 
 
 
 **Region**<br />
-A Core bought by Bulk is made out of parts  Regions (Bulk Coretime Assets)
-The Owner of the Core can
-Assign a Task (like Parachain) to the Region
-Transfer some Regions to another Owner
-Put Regions on Instantaneous Coretime Marketplace (like Lastic or Cortego)
-Split Regions into smaller pieces
+Region is an asset representing a period of Bulk Coretime. It can:
+  - Be transferred to a different owner than the original purchaser.
+  - Be split (partitioned) into multiple segments that are all assigned the the region owner
+  - Interlaced into multiple regions over the same period whose eventual assignments take turns to be scheduled
+  - Assigned to a single, specific task (currently for parachain block production)
+
 ***
 ### Instantaneous Coretime
 
